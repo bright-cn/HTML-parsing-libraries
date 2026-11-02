@@ -113,7 +113,7 @@ HTML 解析器会处理 HTML 文档，将其转换为结构化数据格式，以
 
 了解如何抓取特定网站：
 
-- [**Amazon**](https://github.com/bright-cn/LinkedIn-Scraper)
+- [**Amazon**](https://github.com/bright-cn/Amazon-Scraper)
 - [**LinkedIn**](https://github.com/bright-cn/LinkedIn-Scraper)
 - [**Google 地图**](https://github.com/bright-cn/Google-Maps-Scraper)
 - [**Google 新闻**](https://github.com/bright-cn/Google-News-Scraper)
