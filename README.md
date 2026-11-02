@@ -1,6 +1,6 @@
 # 适用于网页爬虫的最佳 HTML 解析库
 
-[![推广](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
+[![推广](https://github.com/bright-cn/Awesome-Web-Scraping/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn/) 
 
 探索适用于[网页爬虫](https://github.com/bright-cn/Awesome-Web-Scraping)和数据提取的顶级 HTML 解析器，包括 `httpx`、`AIOHTTP` 和 `urllib`。
 
